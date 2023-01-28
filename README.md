@@ -1,2 +1,1 @@
-# Filter-Design
-Course Project EE338 IITB
+# Filter-Design Assignment (Course Project EE338 IITB)
